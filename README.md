@@ -4,10 +4,7 @@ A Chrome extension that reverts Roblox's confusing terminology changes to their 
 
 ## ✨ Features
 - "Connections" → "Friends"
-- "Add Connection" → "Add Friend"
-- "Remove Connection" → "Remove Friend"
 - "Communities" → "Groups"
-- "Community" → "Group"
 - "Experiences" → "Games"
 - "Charts" → "Discover"
 
