@@ -14,4 +14,4 @@ A Chrome extension that reverts Roblox's confusing terminology changes to their 
 ## 🚀 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/roblox-terminology-reverter.git
+   git clone https://github.com/subspacecola/roblox-terminology-reverter.git
